@@ -95,4 +95,4 @@ streamlit run Streamlit_App/app.py
 ## 👤 Author
 
 Khushi Yadav
-AIML Summer Internship 2026, MNNIT Allahabad
+
