@@ -94,10 +94,5 @@ streamlit run Streamlit_App/app.py
 
 ## 👤 Author
 
-**[Your Full Name]**
-[Your roll number / branch, if you want to include it]
+Khushi Yadav
 AIML Summer Internship 2026, MNNIT Allahabad
-
-## 📄 License
-
-This project was developed for educational purposes as part of the AIML Summer Internship Program.
