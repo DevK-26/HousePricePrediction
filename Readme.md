@@ -84,13 +84,13 @@ streamlit run Streamlit_App/app.py
 
 ## 📈 Results
 
-*(To be filled after model evaluation — Day 5)*
-
 | Model | R² Score | RMSE |
 |---|---|---|
-| Linear Regression | _TBD_ | _TBD_ |
-| Random Forest | _TBD_ | _TBD_ |
-| XGBoost | _TBD_ | _TBD_ |
+| Linear Regression | 0.70 | 57.91 |
+| Random Forest ✅ | 0.74 | 54.01 |
+| XGBoost | 0.69 | 59.12 |
+
+**Best model: Random Forest** (deployed in the Streamlit app)
 
 ## 👤 Author
 
